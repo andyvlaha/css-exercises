@@ -1,0 +1,20 @@
+.basic,
+.cooler {
+    background-color: #f274b1;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#special-1 {
+    color: #504ae8;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#special-2 {
+    background-color: #4ae87c;
+    font-weight: bold;
+    font-size: 24px;
+}
